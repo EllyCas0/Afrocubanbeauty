@@ -9,14 +9,14 @@ body {
 
 div {
     border: 3px blanchedalmond;
-    background-color: burlywood;
+    background-color: rgb(220, 207, 190);
     border-radius: 10px;
 }
 
 h1 {
     font-size: 54px;
     font-family: 'Lucida Sans';
-    color: palevioletred;
+    color: rgb(138, 15, 56);
     font-style: italic;
     text-align: center;
 }
