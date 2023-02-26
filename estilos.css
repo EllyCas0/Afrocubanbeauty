@@ -14,7 +14,7 @@ div {
 }
 
 h1 {
-    font-size: 54px;
+    font-size: 2rem;
     font-family: 'Lucida Sans';
     color: rgb(138, 15, 56);
     font-style: italic;
@@ -47,8 +47,4 @@ header {
     border: 3px antiquewhite solid;
     border-radius: 5px;
     background-color: antiquewhite;
-}
-
-footer {
-
 }
